@@ -14,13 +14,20 @@
 <table>
   <thead>
     <tr>
-      <th width="30%">Name</th>
-      <th width="70%">Description</th>
+      <th width="20%">Name</th>
+      <th width="20%">Star</th>
+      <th width="60%">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/choojs/choo"><code>choo</code></a></td>
+      <td><img src="https://img.shields.io/github/stars/choojs/choo.svg" width="60" /></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dvajs/dva"><code>dva</code></a></td>
+      <td><img src="https://img.shields.io/github/stars/dvajs/dva.svg" width="60" /></td>
       <td></td>
     </tr>
   </tbody>
